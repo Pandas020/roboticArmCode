@@ -3,42 +3,6 @@
 #include <BLEScan.h>
 #include <BLEAdvertisedDevice.h>
 #include <BLE2901.h> //this is the name descriptor 
-// TODO
-
-
-// [x] Create a BLE Device
-// [x] Import BLEDevice Library
-// [x] Name Device
-// [x] Initialize Device
-
-// [x] Create Server
-// [x] Import BLEServer library
-// [x] Create BLEServer
-
-// [x] Create Server Callbacks
-// [x] OnConnect
-// [x] Turn on LED
-// [x] OnDisconnect
-// [x] Turn off LED
-
-// [x] Create Service
-// [x] Define a Service UUID
-// [x] Create a Service
-
-
-// [x] Create a Characteristic Callback
-// [x] create sub-class to override BLECharacteristicCallbacks
-// [x] Send millis value every time request comes in
-
-// [x] Create a Descriptor
-// [x] Add a Descriptor (2901)
-
-// [x] Advertise the Service
-// [x] Get the Advertising
-// [x] Set the properties of the Advertisement Data
-// [x] Set the Advertisement Data to the Service
-// [x] Add Service UUID
-// [x] Start Advertising
 
 /*Defines*/
 #define DEVICE_NAME "GLOVE SENSOR"
